@@ -34,7 +34,10 @@ This creates a trustless system where no central authority is needed to verify c
 
 ---
 
-## 📄 Smart Contract Code
+## 📄 Smart Contract Details
 
-```solidity
-//paste your code
+**Language:** Solidity `^0.8.20`  
+**Framework:** Remix / Hardhat compatible  
+**Network:** Celo Sepolia Testnet  
+**Deployed Transaction or Contract Address:** [View on Celo Explorer](https://celo-sepolia.blockscout.com/tx/0xdaf3a6b81f5166168379abaa90ddaf7aa6063792dd2d4a0291dc4f3de71a85c8)  
+
